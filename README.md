@@ -2,13 +2,11 @@
 
 # `HELLO, FRIEND.`
 
-### `> initializing identity: ZYREN03_`
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=65&pause=1100&color=79F7B5&center=true&vCenter=true&repeat=true&width=800&height=55&lines=%3E+initializing+identity%3A+ZYREN03_;%3E+access+granted.+welcome%2C+friend.;%3E+building+AI+companions...;%3E+the+world+is+a+terminal." alt="Terminal typing animation" />
 
-**`[ DEVELOPER ]` · `[ LOCAL AI ]` · `[ AUTOMATION ]` · `[ GAMING ]`**
+`[ DEVELOPER ]` · `[ LOCAL AI ]` · `[ AUTOMATION ]` · `[ GAMING ]`
 
-`ACCESS GRANTED` · `SESSION ACTIVE` · `WELCOME TO MY WORLD`
-
-[**ENTER THE UNIVERSE**](https://github.com/Zyren03/ZyrenAI) · [**SOURCE / GITHUB**](https://github.com/Zyren03)
+[**ENTER THE UNIVERSE**](https://github.com/Zyren03/ZyrenAI) · [**GITHUB / SOURCE**](https://github.com/Zyren03)
 
 </div>
 
@@ -17,134 +15,74 @@
 ## `root@zyren:~$ whoami`
 
 ```text
-╔════════════════════════════════════════════════════════════╗
-║                       Z Y R E N 0 3                        ║
-╠════════════════════════════════════════════════════════════╣
-║ alias      : Zyren                                         ║
-║ role       : developer / creator / AI explorer             ║
-║ interests  : local AI, voice, automation, cyber, gaming    ║
-║ aesthetic  : dark terminals × anime × pixel art            ║
-║ mission    : make software feel alive                      ║
-╚════════════════════════════════════════════════════════════╝
+┌─────────────────────────────────────────────────────────────┐
+│  USER           ZYREN03                                     │
+│  ALIAS          Zyren                                       │
+│  ROLE           Developer / AI Explorer / Creative Builder  │
+│  INTERESTS      Local AI · Voice · Cyber · Gaming           │
+│  AESTHETIC      Mr. Robot × Anime × Pixel Art               │
+│  STATUS         Building something alive...                 │
+└─────────────────────────────────────────────────────────────┘
 ```
 
-> **Salut, l'ami.** 👋  
-> I'm Zyren. I build interactive experiences, experiment with local AI and explore what happens when code gains personality.
+**Salut, l'ami.** 👋
 
----
+I build interactive experiences where code gets a personality. From local AI and voice assistants to desktop companions and Discord experiments, I like creating software that feels alive.
 
-## `root@zyren:~$ ./boot.sh`
+## `root@zyren:~$ ./projects --list`
 
-<details>
-<summary><strong>▶ [01] BOOT SEQUENCE — click to initialize</strong></summary>
-
-```console
-$ ./boot.sh
-[00:00:01] mounting /home/zyren/world ............ [ OK ]
-[00:00:02] loading creativity.service ........... [ OK ]
-[00:00:03] checking local-ai modules ............ [ OK ]
-[00:00:04] connecting desktop companions ........ [ DEMO ]
-[00:00:05] synchronizing community modules ...... [ DEMO ]
-[00:00:06] initializing imagination ............. [ OK ]
-
-> HELLO, FRIEND.
-> Welcome to my universe.
-```
-
-</details>
-
-<details>
-<summary><strong>▶ [02] DECRYPT IDENTITY — click to reveal</strong></summary>
-
-```text
-IDENTITY FILE: /home/zyren/private/about.txt
--------------------------------------------
-Developer at heart.
-Curious about cybersecurity and the way systems work.
-Building voice assistants, desktop companions and interactive UIs.
-Gaming, anime and dark atmospheres fuel the creative side.
--------------------------------------------
-[ DECRYPTION COMPLETE ]
-```
-
-</details>
-
-<details>
-<summary><strong>▶ [03] OPEN SYSTEM LOGS — click to inspect</strong></summary>
-
-```log
-[INFO]   C# / Windows experiments
-[INFO]   JavaScript / interactive interfaces
-[INFO]   Local AI / Ollama / voice exploration
-[INFO]   Discord / community tooling concepts
-[STATUS] Always learning. Always building.
-```
-
-</details>
-
----
-
-## `root@zyren:~$ ls -la ./projects`
-
-| Module | Description | Access |
-|:--|:--|:--|
-| `eva.exe` | Windows voice assistant project | [Explore](https://github.com/Zyren03/ZyrenAI) |
-| `capri.desktop` | Desktop companion customization and demos | [Explore](https://github.com/Zyren03/ZyrenAI) |
-| `eva-discord.bot` | Discord assistant concept and web simulation | [Explore](https://github.com/Zyren03/ZyrenAI) |
-
-*The web demonstrations are simulations; they don't control Windows, Capri or Discord.*
-
----
+| Process | Description | Explore |
+| :--- | :--- | :--- |
+| `eva.exe` | Voice-controlled Windows assistant (in development) | [Eva](https://github.com/Zyren03/ZyrenAI) |
+| `capri.exe` | Animated desktop companion — personal experiments around a third-party project | [Capri](https://github.com/Zyren03/ZyrenAI) |
+| `eva-discord` | Discord bot concepts, commands and community tools | [Eva Discord](https://github.com/Zyren03/ZyrenAI) |
 
 ## `root@zyren:~$ cat stack.conf`
 
 ```ini
 [development]
 languages = C#, JavaScript, HTML, CSS, Python
-platforms = Windows, GitHub, Discord
+platform  = Windows
 
-[ai_experiments]
-local_models = Ollama
-voice = speech recognition, synthesis
-focus = assistants, automation, interactive companions
-
-[creative]
-style = anime, pixel art, dark UI
-inspiration = terminal aesthetics, Mr. Robot
+[experiments]
+local_ai  = Ollama, voice interfaces
+creative  = pixel art, desktop companions, interactive UI
+interests = cybersecurity, gaming, automation
 ```
 
----
+## `root@zyren:~$ tail -f /var/log/zyren.log`
 
-## `root@zyren:~$ ./choose-your-path.sh`
+<div align="center">
 
-<details>
-<summary><strong>▸ PATH A — /dev/creative</strong></summary>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=55&pause=800&color=B794F4&center=true&vCenter=true&repeat=true&width=800&height=90&lines=%5B+OK+%5D+creativity.service+started;%5B+OK+%5D+curiosity.service+started;%5B+RUNNING+%5D+local-ai+experiments;%5B+WAITING+%5D+next+idea..." alt="Animated system log" />
 
-```text
-A world where code has personality.
-Where a companion can live on a desktop.
-Where interfaces feel like an experience.
-```
-
-</details>
+</div>
 
 <details>
-<summary><strong>▸ PATH B — /dev/cyber</strong></summary>
+<summary><b>🔐 root@zyren:~$ sudo cat /etc/secret-message</b></summary>
 
 ```text
-Understand systems.
-Question assumptions.
-Learn how things work before changing them.
+ACCESS GRANTED
+
+Hello, friend.
+
+Control is an illusion.
+But creating something new? That's real.
+
+— Zyren03
 ```
 
 </details>
 
 <details>
-<summary><strong>▸ PATH C — /dev/unknown</strong></summary>
+<summary><b>🧪 root@zyren:~$ ls ~/experiments</b></summary>
 
 ```text
-The next project hasn't been written yet.
-$ _
+voice-assistants/
+local-ai/
+desktop-companions/
+interactive-web/
+discord-bots/
 ```
 
 </details>
@@ -153,12 +91,8 @@ $ _
 
 <div align="center">
 
-### `> connection established.`
+`[ CONNECTION SECURE ]` · `[ SESSION ACTIVE ]` · `[ END OF TRANSMISSION ]`
 
-`There is no final version. Only the next build.`
-
-**`[ ZYREN03 // END OF TRANSMISSION ]`**
-
-[**github.com/Zyren03**](https://github.com/Zyren03)
+**`> Hello, friend. _`**
 
 </div>
