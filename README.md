@@ -4,7 +4,7 @@
 
 ### `> initializing identity: ZYREN03_`
 
-**`[ DEVELOPER ]`** · **`[ LOCAL AI ]`** · **`[ AUTOMATION ]`** · **`[ GAMING ]`**
+**`[ DEVELOPER ]` · `[ LOCAL AI ]` · `[ AUTOMATION ]` · `[ GAMING ]`**
 
 `ACCESS GRANTED` · `SESSION ACTIVE` · `WELCOME TO MY WORLD`
 
@@ -16,98 +16,136 @@
 
 ## `root@zyren:~$ whoami`
 
-```console
-┌──────────────────────────────────────────────────────────────┐
-│  Z Y R E N 0 3                                             │
-│  ──────────────────────────────────────────────────────────  │
-│  alias       : Zyren                                        │
-│  role        : developer / creator / AI explorer            │
-│  interests   : local AI, voice, automation, cyber, gaming   │
-│  aesthetic   : dark terminals × anime × pixel art           │
-│  mission     : make software feel alive                     │
-│  status      : [ ONLINE ]                                   │
-└──────────────────────────────────────────────────────────────┘
+```text
+╔════════════════════════════════════════════════════════════╗
+║                       Z Y R E N 0 3                        ║
+╠════════════════════════════════════════════════════════════╣
+║ alias      : Zyren                                         ║
+║ role       : developer / creator / AI explorer             ║
+║ interests  : local AI, voice, automation, cyber, gaming    ║
+║ aesthetic  : dark terminals × anime × pixel art            ║
+║ mission    : make software feel alive                      ║
+╚════════════════════════════════════════════════════════════╝
 ```
 
 > **Salut, l'ami.** 👋  
-> *I'm Zyren. I build things that listen, react, move and sometimes surprise me.*
-
-I explore the space between **code and personality**: local AI, voice assistants, desktop companions and interactive interfaces. I enjoy building experiences with their own atmosphere — not just another application window.
+> I'm Zyren. I build interactive experiences, experiment with local AI and explore what happens when code gains personality.
 
 ---
 
-## `root@zyren:~$ ls -la ~/projects/`
-
-| Directory | Project | What I'm exploring |
-|:--|:--|:--|
-| `./eva/` | **Eva** | C# voice assistant, Windows interactions and desktop automation |
-| `./capri/` | **Capri** | Desktop companion customization, expressive sprites and local AI experiments |
-| `./eva-discord/` | **Eva Discord** | Community bot concepts, slash commands and moderation tools |
-| `./zyren-ai-universe/` | **[Zyren AI Universe](https://github.com/Zyren03/ZyrenAI)** | Interactive website showcasing these projects |
-
-`NOTE:` The website contains interactive **simulations**. It does not directly control Windows, a Discord server or an installed Capri instance. Capri is third-party software.
-
----
-
-## `root@zyren:~$ cat /etc/zyren/stack.conf`
-
-```ini
-[development]
-languages = C#, JavaScript, HTML, CSS, Python
-platforms = Windows, Web
-editor = VS Code
-
-[ai_lab]
-focus = Local AI, voice interfaces, desktop companions
-exploring = Ollama, Vosk, speech recognition
-
-[creative_mode]
-style = Dark UI, pixel art, anime, immersive interactions
-inspiration = Mr. Robot, cyberpunk, experimental interfaces
-```
-
----
-
-## `root@zyren:~$ tail -f /var/log/ideas.log`
-
-```text
-[BOOT]       Loading curiosity...
-[OK]         Developer mode enabled.
-[OK]         Imagination service running.
-[PROCESS]    Designing interactive AI experiences...
-[PROCESS]    Improving Eva and Zyren AI Universe...
-[NOTICE]     Not everything is finished. That's the point.
-[READY]      Next experiment awaits.
-```
+## `root@zyren:~$ ./boot.sh`
 
 <details>
-<summary><b>▸ [ENCRYPTED] Open the hidden terminal</b></summary>
+<summary><strong>▶ [01] BOOT SEQUENCE — click to initialize</strong></summary>
 
-```bash
-$ ssh friend@zyren03
-Authenticating...
-Access granted.
+```console
+$ ./boot.sh
+[00:00:01] mounting /home/zyren/world ............ [ OK ]
+[00:00:02] loading creativity.service ........... [ OK ]
+[00:00:03] checking local-ai modules ............ [ OK ]
+[00:00:04] connecting desktop companions ........ [ DEMO ]
+[00:00:05] synchronizing community modules ...... [ DEMO ]
+[00:00:06] initializing imagination ............. [ OK ]
 
-$ cat message.txt
-"Hello, friend."
-
-$ ./build_the_future.sh
-> Keep learning.
-> Keep creating.
-> Question everything.
+> HELLO, FRIEND.
+> Welcome to my universe.
 ```
-
-*The most interesting things usually start with a question.*
 
 </details>
 
 <details>
-<summary><b>▸ [SYSTEM] What I'm working toward</b></summary>
+<summary><strong>▶ [02] DECRYPT IDENTITY — click to reveal</strong></summary>
 
-- Make **Eva** more capable, responsive and expressive on Windows.
-- Explore **local-first AI** and practical voice interaction.
-- Refine the visual identity and interactive demos of **Zyren AI Universe**.
-- Build small experiments combining **development, cybersecurity aesthetics and gaming culture**.
+```text
+IDENTITY FILE: /home/zyren/private/about.txt
+-------------------------------------------
+Developer at heart.
+Curious about cybersecurity and the way systems work.
+Building voice assistants, desktop companions and interactive UIs.
+Gaming, anime and dark atmospheres fuel the creative side.
+-------------------------------------------
+[ DECRYPTION COMPLETE ]
+```
+
+</details>
+
+<details>
+<summary><strong>▶ [03] OPEN SYSTEM LOGS — click to inspect</strong></summary>
+
+```log
+[INFO]   C# / Windows experiments
+[INFO]   JavaScript / interactive interfaces
+[INFO]   Local AI / Ollama / voice exploration
+[INFO]   Discord / community tooling concepts
+[STATUS] Always learning. Always building.
+```
+
+</details>
+
+---
+
+## `root@zyren:~$ ls -la ./projects`
+
+| Module | Description | Access |
+|:--|:--|:--|
+| `eva.exe` | Windows voice assistant project | [Explore](https://github.com/Zyren03/ZyrenAI) |
+| `capri.desktop` | Desktop companion customization and demos | [Explore](https://github.com/Zyren03/ZyrenAI) |
+| `eva-discord.bot` | Discord assistant concept and web simulation | [Explore](https://github.com/Zyren03/ZyrenAI) |
+
+*The web demonstrations are simulations; they don't control Windows, Capri or Discord.*
+
+---
+
+## `root@zyren:~$ cat stack.conf`
+
+```ini
+[development]
+languages = C#, JavaScript, HTML, CSS, Python
+platforms = Windows, GitHub, Discord
+
+[ai_experiments]
+local_models = Ollama
+voice = speech recognition, synthesis
+focus = assistants, automation, interactive companions
+
+[creative]
+style = anime, pixel art, dark UI
+inspiration = terminal aesthetics, Mr. Robot
+```
+
+---
+
+## `root@zyren:~$ ./choose-your-path.sh`
+
+<details>
+<summary><strong>▸ PATH A — /dev/creative</strong></summary>
+
+```text
+A world where code has personality.
+Where a companion can live on a desktop.
+Where interfaces feel like an experience.
+```
+
+</details>
+
+<details>
+<summary><strong>▸ PATH B — /dev/cyber</strong></summary>
+
+```text
+Understand systems.
+Question assumptions.
+Learn how things work before changing them.
+```
+
+</details>
+
+<details>
+<summary><strong>▸ PATH C — /dev/unknown</strong></summary>
+
+```text
+The next project hasn't been written yet.
+$ _
+```
 
 </details>
 
@@ -115,14 +153,12 @@ $ ./build_the_future.sh
 
 <div align="center">
 
-### `> connection established_`
+### `> connection established.`
 
-**`HELLO, FRIEND.`**
+`There is no final version. Only the next build.`
 
-`No noise. Just code, curiosity and a little chaos.`
+**`[ ZYREN03 // END OF TRANSMISSION ]`**
 
-[**github.com/Zyren03**](https://github.com/Zyren03) · [**Zyren AI Universe**](https://github.com/Zyren03/ZyrenAI)
-
-<sub>Independent personal projects · No official affiliation with Mr. Robot, fsociety, Capri or Discord.</sub>
+[**github.com/Zyren03**](https://github.com/Zyren03)
 
 </div>
